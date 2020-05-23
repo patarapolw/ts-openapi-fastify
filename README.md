@@ -1,6 +1,6 @@
 # ts-openapi-fastify
 
-Fastify with OpenAPI example.
+Fastify with OpenAPI and typescript-json-schema example.
 
 Used stacks.
 
